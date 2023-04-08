@@ -14,8 +14,8 @@ oleh : [Abiyyu Cakra](https://linkedin.com/in/abiyyu-cakra)
   - [4. Toko Alat Tulis](#4-toko-alat-tulis)
 - [Detail Penilaian](#detail-penilaian)
   - [1. Codingan](#1-codingan)
-  - [2. Buat Postingan LinkedIn](#2-buat-postingan-linkedin)
-  - [3. Buat Video Youtube](#3-buat-video-youtube)
+  - [2. Upload ke kreasi](#2-upload-ke-kreasi)
+  - [3. Buat Postingan LinkedIn](#3-buat-postingan-linkedin)
 - [Detail Pengumpulan](#detail-pengumpulan)
 - [Tenggat Waktu](#tenggat-waktu)
 - [Akhir Kata](#akhir-kata)
@@ -70,7 +70,8 @@ Untuk menyelesaikan project kali ini, kamu akan diajak untuk membuat sistem ecom
 ## Struktur Folder
 
 ![struktur-folder](img/struktur_folder.png) 
-Saya sudah menyediakan code boilerplate / template code untuk projek uts. silakan kalian download [disini]()
+
+Saya sudah menyediakan code boilerplate / template code untuk projek uts. silakan kalian download [disini](https://github.com/abiyyu03/web2-boilerplate/blob/master/uts/web2-uts-template.zip)
 
 Kemudian didalamnya Terdapat dua folder, yang masing-masing memiliki fungsi yang berbeda, yaitu folder **frontend** dan **backend**
 1. frontend
@@ -85,6 +86,16 @@ Kemudian didalamnya Terdapat dua folder, yang masing-masing memiliki fungsi yang
 ## Detail Pengerjaan
 
 Pastikan kalian sudah membaca Bagian [struktur folder](#struktur-folder), sebelum membaca bagian ini. Jika sudah mari kita lanjut.
+
+Secara umum kalian diminta untuk membuat dua macam tampilan aplikasi, yaitu **frontend**, sebagai etalase produk dan **backend**, sebagai tampilan CRUD dari aplikasi
+ 
+contoh Tampilan Frontend :
+
+<img src="img/frontend.png" width="360"> 
+
+contoh Tampilan Backend :
+
+<img src="img/backend.png" width="460"> 
 
 Penting untuk kamu mengetahui ketentuan Khusus dari studi kasus yang kamu dapat :
 
@@ -120,18 +131,25 @@ Bintang mempunyai toko alat tulis. ia membutuhkan aplikasi CRUD sederhana untuk 
 
 ## Detail Penilaian
 
-Ada beberapa penilaian yang harus kamu penuhi
-
 ### 1. Codingan
+- Membuat fitur Create, Read, Update dan Delete data
+- Membuat Frontend untuk etalase produk
+- Membuat Backend untuk dashboard admin  
+- Tidak ada error pada aplikasi
+- Menu pada Frontend dan Backend Berfungsi dengan baik
 
-### 2. Buat Postingan LinkedIn
+### 2. Upload ke kreasi
+Aplikasi yang sudah dibuat di upload ke kreasi
+
+### 3. Buat Postingan LinkedIn
 Buat sebuah postingan yang berisi penjelasan tentang website yang sudah kamu buat. Deskripsikan fitur, halaman, konten, dan segala aspek yang relevan dengan website tersebut dengan sebaik mungkin. Pastikan untuk memberikan informasi yang jelas dan mudah dipahami oleh pembaca. berikan nama dan nim serta jangan lupa cantumkan link repository github dan kreasi
 
-### 3. Buat Video Youtube
-Mahasiswa wajib membuat video demo penggunaan website yang sudah dibuat, dengan fokus penjelasan **Fitur yang ada, halaman dan konten didalamnya**
+<br>
 
 ## Detail Pengumpulan
 Pengumpulan project UTS dilakukan dengan mengisi Google Form yang telah disediakan dan dapat diakses melalui link berikut. 
+
+[https://forms.gle/ASCVG47crwfr1T3C6](https://forms.gle/ASCVG47crwfr1T3C6)
 
 <br>
 
