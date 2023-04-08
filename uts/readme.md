@@ -5,7 +5,7 @@ oleh : [Abiyyu Cakra](https://linkedin.com/in/abiyyu-cakra)
 ## Daftar Isi<br>
 - [Daftar Isi](#daftar-isi)
 - [Intro](#intro)
-- [Prerequisist](#prerequisist)
+- [Prequisite](#prequisite)
 - [Struktur Folder](#struktur-folder)
 - [Detail Pengerjaan](#detail-pengerjaan)
   - [1. Toko Sembako](#1-toko-sembako)
@@ -37,7 +37,7 @@ Setiap mahasiswa akan diminta untuk memilih salah satu dari lima bidang yang ter
 Tugas utama mahasiswa adalah membuat sebuah website yang sesuai dengan bidang yang telah dipilih dan melaksanakan operasi CRUD di dalamnya. 
 
 
-## Prerequisist
+## Prequisite
 
 Untuk menyelesaikan project kali ini, kamu akan diajak untuk membuat sistem ecommerce sederhana berbasis CRUD dengan menerapkan semua materi PHP yang telah dipelajari sebelumnya. Namun, sebelum mulai coding, pastikan kamu telah mengimpor database yang telah disediakan di link dibawah ini ini.
 
@@ -69,7 +69,8 @@ Untuk menyelesaikan project kali ini, kamu akan diajak untuk membuat sistem ecom
 
 ## Struktur Folder
 
-Silakan buat folder baru dengan nama judul dari aplikasi kalian. folder dibuat terpisah dari folder praktikum yaa. 
+![struktur-folder](img/struktur_folder.png) 
+Saya sudah menyediakan code boilerplate / template code untuk projek uts. silakan kalian download [disini]()
 
 Kemudian didalamnya Terdapat dua folder, yang masing-masing memiliki fungsi yang berbeda, yaitu folder **frontend** dan **backend**
 1. frontend
