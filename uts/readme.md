@@ -41,14 +41,19 @@ Tugas utama mahasiswa adalah membuat sebuah website yang sesuai dengan bidang ya
 
 Untuk menyelesaikan project kali ini, kamu akan diajak untuk membuat sistem ecommerce sederhana berbasis CRUD dengan menerapkan semua materi PHP yang telah dipelajari sebelumnya. Namun, sebelum mulai coding, pastikan kamu telah mengimpor database yang telah disediakan di link dibawah ini ini.
 
-[File SQL](https://github.com/abiyyu03/web2-boilerplate)
+[File SQL](https://github.com/abiyyu03/web2-boilerplate/tree/UTS)
+
+cara download :
+Klik tombol biru bertuliskan **code**, kemudian klik **download zip**
+
+<img src="img/cara_download.png" width="360"> 
 
 <details>
 <summary><b>Dependensi Projek</b></summary>
 
     Untuk memudahkan kamu dalam mengerjakan projek, silakan download file yang di butuhkan, seperti file SQL, template web, dan lain-lain ada di tautan Dibawah ini  
 
-[Link Boilerplate UTS](https://github.com/abiyyu03/web2-boilerplate)
+[Link Boilerplate UTS](https://github.com/abiyyu03/web2-boilerplate/tree/UTS)
 
 </details>
 
@@ -79,7 +84,7 @@ Kemudian didalamnya Terdapat dua folder, yang masing-masing memiliki fungsi yang
    Folder frontend berisikan codingan tampilan halaman ecommerce yang nantinya akan diakses oleh user. gunakan template yang sudah disediakan atau jika kalian memilih template lain diperbolehkan 
 2. backend
    
-   Folder ini berisikan tampilan sisi backend CRUD dari aplikasi yang kamu buat. Tampilan backend ini diwajibkan menggunakan template sbadmin (template sudah tersedia di [boilerplate](https://github.com/abiyyu03/web2-boilerplate))
+   Folder ini berisikan tampilan sisi backend CRUD dari aplikasi yang kamu buat. Tampilan backend ini diwajibkan menggunakan template sbadmin (template sudah tersedia di [boilerplate](https://github.com/abiyyu03/web2-boilerplate/tree/UTS))
 
 <br>
 
