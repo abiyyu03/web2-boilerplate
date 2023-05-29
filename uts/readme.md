@@ -16,6 +16,7 @@ oleh : [Abiyyu Cakra](https://linkedin.com/in/abiyyu-cakra)
   - [1. Codingan](#1-codingan)
   - [2. Upload ke kreasi](#2-upload-ke-kreasi)
   - [3. Buat Postingan LinkedIn](#3-buat-postingan-linkedin)
+  - [4. Upload Ke GitHub](#4-upload-ke-github)
 - [Detail Pengumpulan](#detail-pengumpulan)
 - [Tenggat Waktu](#tenggat-waktu)
 - [Akhir Kata](#akhir-kata)
@@ -24,18 +25,14 @@ oleh : [Abiyyu Cakra](https://linkedin.com/in/abiyyu-cakra)
 
 ## Intro
 
-CRUD E-Commerce Project adalah proyek individu yang bertujuan untuk membuat sistem CRUD dengan mengimplementasikan materi PDO. Proyek ini bertujuan untuk memperkuat pemahaman mahasiswa tentang konsep dasar PDO dengan mengimplementasikannya dalam membuat sistem CRUD.
-
-Setiap mahasiswa akan diminta untuk memilih salah satu dari lima bidang yang tersedia. Penentuan bidang unggulan akan ditetapkan oleh Asisten Dosen untuk setiap kelas
+CRUD E-Commerce Project adalah proyek individu yang bertujuan untuk membuat sistem CRUD dengan mengimplementasikan materi PDO. Proyek ini bertujuan untuk memperkuat pemahaman mahasiswa tentang konsep dasar PDO dengan mengimplementasikannya dalam membuat sistem CRUD. Adapun tema yang sudah ditentukan adalah sebagai berikut
 
 1. Toko Motor
 2. Toko Pakaian
 3. Toko Alat Tulis
 4. Toko Sembako
 
-
-Tugas utama mahasiswa adalah membuat sebuah website yang sesuai dengan bidang yang telah dipilih dan melaksanakan operasi CRUD di dalamnya. 
-
+<br>
 
 ## Prequisite
 
@@ -136,18 +133,20 @@ Bintang mempunyai toko alat tulis. ia membutuhkan aplikasi CRUD sederhana untuk 
 
 ## Detail Penilaian
 
-### 1. Codingan
-- Membuat fitur Create, Read, Update dan Delete data
+### 1. Codingan 
 - Membuat Frontend untuk etalase produk
-- Membuat Backend untuk dashboard admin  
+- Membuat Backend untuk dashboard admin dan membuat fitur Create, Read, Update dan Delete data didalamnya
 - Tidak ada error pada aplikasi
 - Menu pada Frontend dan Backend Berfungsi dengan baik
 
 ### 2. Upload ke kreasi
-Aplikasi yang sudah dibuat di upload ke kreasi
+Aplikasi yang sudah dibuat di upload ke kreasi. berikut dengan databasenya
 
 ### 3. Buat Postingan LinkedIn
 Buat sebuah postingan yang berisi penjelasan tentang website yang sudah kamu buat. Deskripsikan fitur, halaman, konten, dan segala aspek yang relevan dengan website tersebut dengan sebaik mungkin. Pastikan untuk memberikan informasi yang jelas dan mudah dipahami oleh pembaca. berikan nama dan nim serta jangan lupa cantumkan link repository github dan kreasi
+
+### 4. Upload Ke GitHub
+Buat repository baru untuk projek ini, artinya projek UTS ini kalian buat foldernya diluar praktikum. jangan di upload ke repository praktikum ya
 
 <br>
 
