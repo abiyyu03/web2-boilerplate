@@ -34,7 +34,7 @@
                                         </h3>
                                     </div>
                                     <div class="card-body">
-                                        <form action="" method="">
+                                        <form action="" method="POST">
                                             <div class="form-floating mb-3">
                                                 <input
                                                     class="form-control"
@@ -92,18 +92,14 @@
                                             </div>
                                             <div class="mt-4 mb-0">
                                                 <div class="d-grid">
-                                                    <a
-                                                        class="btn btn-primary btn-block"
-                                                        href="login.html"
-                                                        >Daftar !</a
-                                                    >
+                                                    <button type="submit" class="btn btn-primary form-control">Register</button>
                                                 </div>
                                             </div>
                                         </form>
                                     </div>
                                     <div class="card-footer text-center py-3">
                                         <div class="small">
-                                            <a href="login.html"
+                                            <a href="/login"
                                                 >Sudah punya akun ? login
                                                 sekarang</a
                                             >

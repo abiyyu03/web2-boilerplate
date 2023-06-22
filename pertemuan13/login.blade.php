@@ -34,7 +34,7 @@
                                         </h3>
                                     </div>
                                     <div class="card-body">
-                                        <form action="" method="">
+                                        <form action="" method="POST">
                                             <div class="form-floating mb-3">
                                                 <input
                                                     class="form-control"
@@ -62,17 +62,13 @@
                                             <div
                                                 class="d-flex align-items-center justify-content-between mt-4 mb-0"
                                             >
-                                                <a
-                                                    class="btn btn-primary form-control"
-                                                    href="index.html"
-                                                    >Login</a
-                                                >
+                                                <button type="submit" class="btn btn-primary form-control">Login</button>
                                             </div>
                                         </form>
                                     </div>
                                     <div class="card-footer text-center py-3">
                                         <div class="small">
-                                            <a href="register.html"
+                                            <a href="/register"
                                                 >Buat akun baru</a
                                             >
                                         </div>
