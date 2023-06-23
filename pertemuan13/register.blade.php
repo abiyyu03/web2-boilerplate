@@ -65,7 +65,7 @@
                                                     id="inputEmail"
                                                     type="email"
                                                     placeholder="example : name@example.com"
-                                                    name="name"
+                                                    name="email"
                                                 />
                                                 <label for="inputEmail"
                                                     >Email</label
