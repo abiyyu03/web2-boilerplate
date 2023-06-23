@@ -22,6 +22,9 @@
                 <main>
                     <div class="container">
                         <div class="row justify-content-center">
+                            @if($message = Session::get('sukses'))
+                                <div class="alert alert-success">{{$message}}</div>
+                            @endif
                             <div class="col-lg-5">
                                 <div
                                     class="card shadow-lg border-0 rounded-lg mt-5"
